@@ -14,9 +14,8 @@ To play Muffin Masters on your Windows device, you'll need both the PCK file and
 
 4. **Enjoy!** Immerse yourself in the world of Muffin Masters and start your baking adventure!
 
-
 ## Credits:
-- **Developer:** Vivian
+- **Developer:** Vivian, Will, Yuxin
 - **Game Engine:** Godot
 
 Enjoy the game!
